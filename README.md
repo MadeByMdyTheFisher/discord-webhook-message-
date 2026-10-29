@@ -1,1 +1,2 @@
-# discord-webhook-message-
+# simple Python webhook sender
+learning python
